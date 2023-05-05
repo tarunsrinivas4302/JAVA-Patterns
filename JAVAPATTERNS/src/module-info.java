@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author TARUN
+ *
+ */
+module JAVAPATTERNS {
+}
